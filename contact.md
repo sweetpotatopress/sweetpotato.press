@@ -28,9 +28,10 @@ title: contact
 </style>
 <br>
 
-<p><a href='https://www.instagram.com/sweetpotato.press'>instagram</a>
+<h2><a href='https://www.instagram.com/sweetpotato.press'>instagram</a>
 <br> 
 <a href='https://bsky.app/profile/sweetpotato.press'>bluesky</a>
+</h2>
 
 
 

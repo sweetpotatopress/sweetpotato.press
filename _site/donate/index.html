@@ -53,8 +53,31 @@ h5 {
 	margin-right: 300px;
 	margin-left: 200px;
 }
+h3{
+   margin-top: 175px;
 }
-    
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+
+}
   </style>
 </head>
 
@@ -74,11 +97,18 @@ h5 {
 </header>
 
 	<div class="content">
-    <p>
-<a href="https://paypal.me/yamlynn">donate</a>
-<br />
-book fund
-</p>
+    <main role="main">
+    <article>        
+        <p><br />
+<br /></p>
+<h2>
+<a href="https://paypal.me/yamlynn">donation link</a>
+<br /><br /></h2>
+<p>book fund</p>
+
+
+    </article>
+</main>
 
   </div>
 

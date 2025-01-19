@@ -3,7 +3,6 @@ title: "sweetpotato.press birth chart analysis"
 layout: post
 ---
 
-
 <h2>sweetpotato.press birth chart analysis</h2>
 <br>
 
@@ -11,7 +10,7 @@ layout: post
 <h5>click to enlarge</h5>
   
   
-  <div class="column">
+  <div>
   
     <a href="/img/na.jpg" data-fancybox data-caption="">
 	<img src="/img/na.jpg" alt="" />
@@ -27,9 +26,9 @@ decided to look at the chart for the time I purchased the domain name and was su
 <br><br>
 this is a day time chart, with cancer rising and the ruler of the 1st in the 3rd. communications is integral to the health and well being of the body of sweetpotato.press(spp). the moon here is in her joy, the 3rd house is also called the house of the goddess. it is the place of ritual, daily observances, and divination. its the house that describes how the native talks and by what methods. 
 <br><br>
-the moon is in generally good condition making a close but separating trine to her ruler mercury in the 7th house, is happily placed in the night part of the chart, is receiving a superior square by jupiter and an opposition from venus. although we also see mars making a superior sextile, an opposition from saturn, cadent house, and she is waning
+the moon is in generally good condition making a close but separating trine to her ruler mercury in the 7th house, she is happily placed in the night sector of the chart, she is receiving a superior square from jupiter and an opposition from venus. although we also see mars making a superior sextile, an opposition from saturn, she is in a cadent house, and she is waning.
 <br><br>
-the moon is coprescent with both the IC point and the south node. communications not only are important to the body but they also form the foundational point. the ground from which spp walks. the voice in all forms is extremely important! the south node brings mystery, a hidden place that the moon must soon cross- the den of the dragon - we can presume spp will be communicating difficult or shaded topics. 
+the moon is coprescent with both the IC point and the south node. communications are not only important to the body but they also form the foundational point. the ground from which spp walks. the voice in all forms is extremely important! the south node brings mystery, a hidden place that the moon must soon cross- the den of the dragon - we can presume spp will be communicating difficult or shaded topics. 
 <br><br>
 overall the 3rd house is in moderately good condition and the moon is able to fulfill her signification as goddess with strong support from her ruler mercury. she can dive into the small details bringing to body the occult, religious rites, divination and dreams. all very important topics to spp! within which we wish to bring to earth the words that whirl inside. 
 <br><br>
@@ -39,7 +38,7 @@ the fourth house of home and foundations, secret things, ancestors and endings i
 <br><br>
 the 5th house of good fortune and creativity is mars in the 1st - having fun and being creative is greatly important to spp but may also bring difficulties being ruled by mars in their fall in a day chart. we could say creativity is extremely important but spp may take creative liberties that are at odds with reality in a quest towards a dream. 
 <br><br>
-the 6th house of hard work and illness is ruled by jupiter in the 12th - 
+the 6th house of hard work and illness is ruled by jupiter in the 12th - hard work flows towards isolation.
 <br><br>
 the 7th house of other people, relationships is ruled by the 9th of spirituality - apt for a site wanting to bring the beauty of Hellenistic astrology to others and opening up their services to provide readings. 
 <br><br>
@@ -49,7 +48,7 @@ in the 9th house we have a smorgasbord. some may even call it a stelium but im l
 <br><br>
 we see venus here exalted and in her own triplicity. it is this area of life that spp gains honor, recognition, and a following and its through venus' extravagance that spp shines. 
 <br><br>
-the 10th house is the independent sign of aries, ruled by mars in the 1st house. the career of spp is to be themselves. lol of course we too find difficulties here - an overreactive yet inward mars given full reign of the all powerful 10th house angle. 
+the 10th house is the independent sign of aries, ruled by mars in the 1st house. the career of spp is to be themselves. lol. of course we too find difficulties here - an overreactive yet inward mars given full reign of the all powerful 10th house angle. 
 <br><br>
 the 11th house of community, friends, and good spirit is taurus, ruled by venus in the 9th house. further asserting the importance of spiritual topics - we also see uranus here giving a revelatory and unique flair- much like the out of bounds venus. spp can expect sudden changes and eccentric character from their community and shared dreams. 
 <br><br> 

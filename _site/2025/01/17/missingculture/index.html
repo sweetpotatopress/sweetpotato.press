@@ -53,8 +53,31 @@ h5 {
 	margin-right: 300px;
 	margin-left: 200px;
 }
+h3{
+   margin-top: 175px;
 }
-    
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+
+}
   </style>
 </head>
 
@@ -112,6 +135,15 @@ There is a consistent whirling in all things but the bodies in the stars give co
         </footer>
     </article>
 </main>
+<style>
+@media only screen and (min-width: 760px) {
+img {
+	display: block;  
+  margin-left: 200px;
+  margin-right: 300px;
+}
+}
+</style>
 
 
   </div>

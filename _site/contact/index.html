@@ -53,8 +53,31 @@ h5 {
 	margin-right: 300px;
 	margin-left: 200px;
 }
+h3{
+   margin-top: 175px;
 }
-    
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+
+}
   </style>
 </head>
 
@@ -101,13 +124,11 @@ h5 {
 
 <p><br /></p>
 
-<p><a href="https://www.instagram.com/sweetpotato.press">instagram</a>
+<h2><a href="https://www.instagram.com/sweetpotato.press">instagram</a>
 <br /> 
 <a href="https://bsky.app/profile/sweetpotato.press">bluesky</a>
+</h2>
 
-
-
-</p>
 
     </article>
 </main>
