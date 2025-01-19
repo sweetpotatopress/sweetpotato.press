@@ -5,8 +5,8 @@
     <description></description>
     <link>//</link>
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Jan 2025 12:05:30 -0600</pubDate>
-    <lastBuildDate>Sun, 19 Jan 2025 12:05:30 -0600</lastBuildDate>
+    <pubDate>Sun, 19 Jan 2025 12:40:52 -0600</pubDate>
+    <lastBuildDate>Sun, 19 Jan 2025 12:40:52 -0600</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
     
       <item>
@@ -18,7 +18,7 @@
 
 &lt;div&gt;
   
-    &lt;a href=&quot;/img/na.jpg&quot; data-fancybox=&quot;&quot; data-caption=&quot;&quot;&gt;
+    &lt;a class=&quot;ca&quot; href=&quot;/img/na.jpg&quot; data-fancybox=&quot;&quot; data-caption=&quot;&quot;&gt;
 	&lt;img src=&quot;/img/na.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;
   

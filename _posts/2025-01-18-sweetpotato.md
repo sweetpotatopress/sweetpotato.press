@@ -12,7 +12,7 @@ layout: post
   
   <div>
   
-    <a href="/img/na.jpg" data-fancybox data-caption="">
+    <a class="ca" href="/img/na.jpg" data-fancybox data-caption="">
 	<img src="/img/na.jpg" alt="" />
 </a>
   
