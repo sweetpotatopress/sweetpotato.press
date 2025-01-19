@@ -1,0 +1,76 @@
+---
+layout: default 
+title: Home
+cover: false
+---
+<style>
+
+}
+
+h3{
+   margin-top: 175px;
+}
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+
+</style>
+
+ <div class="row">
+  <div class="column">
+  writings
+  <br>
+  <br>
+   <main class="parent">
+    {% for post in site.posts %}
+        <div>
+            <div class="pd">{{ post.date | date: "%m/%Y" }}</div> 
+            <a href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </div>
+    {% endfor %}
+</main>
+<br>
+<br>
+</div>
+
+<h2>  </h2>
+
+  <div class="column">
+  
+    <a href="/img/bc.jpg" data-fancybox data-caption="">
+	<img src="/img/bc.jpg" alt="" />
+</a>
+  </div>
+ 
+
+  
+
+<br>
+ <br>
+ 
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+
+
