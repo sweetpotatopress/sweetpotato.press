@@ -9,7 +9,7 @@ coming to you live
 
 Subscribe to RSS: [feed.xml](feed.xml)
 
-[compounding interest](/news/interest.md){.title}
-[25 August 2026]{.date}
+[saturn, mars, neptune, aries, anger](/news/saturn-mars-neptune-aries-anger.md){.title}
+[28 August 2026]{.date}
 
 

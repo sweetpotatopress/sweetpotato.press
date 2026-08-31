@@ -2,7 +2,7 @@
 % yam
 % 28 August 2026
   
-##saturn, mars, neptune, aries, anger  
+saturn, mars, neptune, aries, anger  
 ---
 
 perhaps its best to be mean these next 13 years. knowing what you want and getting it by any means no matter who or what gets hurt. perhaps the advice to be kind is repugnant stinking leftovers rotting under the sun and their strong rays.   
