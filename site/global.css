@@ -138,10 +138,11 @@ div#footer ul:last-of-type > li:last-child {
 }
 
 nav#TOC {
+	float: right;
 	min-width:25%;
 	max-width:100%;
-	float:left;
-	margin:1em;
+	min_width: 0;
+	margin:1em 0 1em 1.5em;
 	padding: 0.2em 1em;
 }
 nav#TOC h1 {
@@ -150,6 +151,16 @@ nav#TOC h1 {
 nav#TOC li > ul {
 	margin-left:0;
 	padding-left:0.5em;
+}
+
+@media (max-width: 40em) {
+	nav#TOC {
+		float: none;
+		width: 100%;
+		max_width: 100%;
+		margin: 1em 0;
+		padding: 0.5em 1em;
+	}
 }
 
 img.imgleft, img.imgright {
