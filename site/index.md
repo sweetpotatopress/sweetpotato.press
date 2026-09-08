@@ -1,5 +1,6 @@
 ---
 title: sweetpotato.press
+x-toc-enable: true
 ...
 
 home of free astrology software *astro*  
@@ -10,7 +11,15 @@ home of free astrology software *astro*
 astro is simple, terminal based, astrology software for linux and bsd systems including 
 chart animation, solar returns, saving/loading charts, realtime updates, up to 10 concurrent charts, and more. the data is easily accessible, front and center, for fast reading and delineations, in a compact form factor to easily work with desktop environment windows or window manager scratchpads.
 
-![miles davis birth chart drawn in astro](../img/astro.png)  
+chat on irc.libera.chat #astro
+
+![miles davis birth chart drawn with astro](../img/astro.png)  
+
+## contribution guidelines
+
+- target c99 and posix 200809L, compile without error or warning with `make debug`  
+- snake_case, MACRO in all caps, no strcpy or continue. brackets on their own line  
+- a sense of love  
 
 unhappy with the current state of astrological software? most of which is 
 proprietary, expensive, and not available on linux? dislike the movement towards subscription based 
