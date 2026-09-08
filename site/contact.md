@@ -2,8 +2,6 @@
 title: contact
 ---
 
-available on irc.libera.chat #astro 
-
-come say hi!
+say hi, ask questions, or just chill on [libera.chat](https://libera.chat) channel #astro
 
 ---
