@@ -2,6 +2,8 @@
 title: contact
 ---
 
-coming soon !
+available on irc.libera.chat #astro 
+
+come say hi!
 
 ---
