@@ -8,6 +8,10 @@ x-toc-enable: true
 
 Subscribe to RSS: [feed.xml](feed.xml)
 
+[astro now has transits!](/news/transits.md){.title}
+[12 September 2026]{.date}
+
+
 [prettier search menus](/news/prettier-paged-search-menu.md){.title}
 [02 September 2026]{.date}
 
