@@ -9,7 +9,7 @@ home of free astrology software *astro*
 ---
 
 astro is simple, terminal based, astrology software for linux and bsd systems including 
-chart animation, transits, solar returns, saving/loading charts, realtime updates, up to 10 concurrent charts, and more. the data is easily accessible, front and center, for fast reading and delineations, in a compact form factor to easily work with desktop environment windows or window manager scratchpads.
+chart animation, transits, synastry, zodiacal releasing, solar returns, saving/loading charts, realtime updates, up to 10 concurrent charts, and more. the data is easily accessible, front and center, for fast reading and delineations, in a compact form factor to easily work with desktop environment windows or window manager scratchpads.
 
 come say hi on [libera.chat](https://libera.chat) channel #astro
 
@@ -19,6 +19,7 @@ come say hi on [libera.chat](https://libera.chat) channel #astro
 
 - target c99 and posix 200809L, compile without error or warning with `make debug`  
 - snake_case, MACRO in all caps, no strcpy or continue. brackets on their own line  
+- no typedef  
 - a sense of love  
 
 unhappy with the current state of astrological software? most of which is 

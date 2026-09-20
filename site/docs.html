@@ -27,12 +27,35 @@
 <nav id="TOC">
 <h1>Navigate this page:</h1>
 <ul>
+<li><a href="#how-to-install" id="toc-how-to-install">how to
+install</a></li>
 <li><a href="#contribution-guidelines"
 id="toc-contribution-guidelines">contribution guidelines</a></li>
 </ul>
 </nav>
 <div class="pagetext">
 <p><a href="./">Return to index</a></p>
+<p>find astro<br />
+<a href="https://codeberg.org/yamlynn/astro">available on
+codeberg</a><br />
+<a href="https://github.com/sweetpotatopress/astro">available on
+github</a></p>
+<div class="h"><h2 id="how-to-install">how to install</h2><a aria-hidden="true" href="#how-to-install">[link]</a></div>
+<ul>
+<li>install ncurses (most os have it by default)<br />
+</li>
+<li><code>make</code> to build locally<br />
+</li>
+<li><code>doas make install</code> to install to $PATH (sudo is also
+acceptable)<br />
+</li>
+<li>optionally create a file names <code>config</code> in
+<code>$XDG_CONFIG_HOME/astro</code> (typically ~/.config/astro) if you
+would like to create a default iana timezone and location. currently it
+has to be in the same order shown in the README. if you dont know the
+lat. and long. you can find it by searching the location in the program
+:D</li>
+</ul>
 <div class="h"><h2 id="contribution-guidelines">contribution guidelines</h2><a aria-hidden="true" href="#contribution-guidelines">[link]</a></div>
 <ul>
 <li>target c99 and posix 200809L, compile without error or warning with
@@ -40,6 +63,8 @@ id="toc-contribution-guidelines">contribution guidelines</a></li>
 </li>
 <li>snake_case, all caps MACRO, no strcpy or continue. brackets on their
 own line<br />
+</li>
+<li>no typedef<br />
 </li>
 <li>a sense of love</li>
 </ul>
