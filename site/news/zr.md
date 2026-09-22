@@ -5,7 +5,7 @@
 now easily calculated by astro
 ---
 
-![zr of crowleys chart](../img/zr.webp)  
+![zr of crowleys chart](/img/zr.webp)  
 
 opens on the right side of the screen, instantly upon pressing z! in smaller resolutions it pushes aside the data panels to focus the chart. its often bothered me how many softwares would cover the chart or not show it at all. I find it easier to read with both open. 
 
