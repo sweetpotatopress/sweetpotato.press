@@ -8,6 +8,10 @@ x-toc-enable: true
 
 Subscribe to RSS: [feed.xml](feed.xml)
 
+[zodiacal releasing](/news/zr.md){.title}
+[22 September 2026]{.date}
+
+
 [astro now has transits!](/news/transits.md){.title}
 [12 September 2026]{.date}
 
