@@ -14,9 +14,9 @@ chart animation, transits, synastry, zodiacal releasing, solar returns, saving/l
 come say hi on [libera.chat](https://libera.chat) channel #astro
 
 <div style="text-align: center;">
-	<video controls style="width: 100%; height: auto;">
-		<source src="../img/astro.mp4" type="video/mp4">
-	</video>
+<video controls style="width: 100%; height: auto;">
+<source src="../img/astro.mp4" type="video/mp4">
+</video>
 </div>
     
 ![miles davis birth chart drawn with astro](../img/astro.png)  
