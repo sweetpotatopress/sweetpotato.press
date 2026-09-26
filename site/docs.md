@@ -11,7 +11,7 @@ find astro
 - install ncurses (most os have it by default)  
 - `make` to build locally  
 - `doas make install` to install to $PATH (sudo is also acceptable)  
-- optionally create a file names `config` in `$XDG_CONFIG_HOME/astro` (typically ~/.config/astro) if you would like to create a default iana timezone and location. currently it has to be in the same order shown in the README. if you dont know the lat. and long. you can find it by searching the location in the program :D  
+- type astro in the terminal to launch
 
 ## how to set default location
 
