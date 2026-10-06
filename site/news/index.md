@@ -8,6 +8,10 @@ x-toc-enable: true
 
 Subscribe to RSS: [feed.xml](feed.xml)
 
+[increments, LMT, profections](/news/incremental-animation.md){.title}
+[6 October 2026]{.date}
+
+
 [config overhaul](/news/config.md){.title}
 [25 September 2026]{.date}
 
