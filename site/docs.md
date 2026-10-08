@@ -25,9 +25,12 @@ find astro
 
 ## contribution guidelines
 
-- target c99 and posix 200809L, compile without error or warning with `make debug`  
-- snake_case, all caps MACRO, no strcpy or continue. brackets on their own line  
+- snake_case, MACRO in all caps
+- no strcpy
+- no continue. 
 - no typedef  
+- brackets on their own line  
+- must compile on both bsd and linux  
 - a sense of love  
 
 ---
