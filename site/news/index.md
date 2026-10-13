@@ -9,7 +9,7 @@ x-toc-enable: true
 Subscribe to RSS: [feed.xml](feed.xml)
 
 [bsd compatibility](/news/bsd.md){.title}
-[October 03 2026]{.date}
+[08 October 2026]{.date}
 
 
 [increments, LMT, profections](/news/incremental-animation.md){.title}

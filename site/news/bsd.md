@@ -1,6 +1,6 @@
 % bsd compatibility
 % yam
-% October 03 2026
+% 08 October 2026
 ---
 
 true compatibility with bsd
