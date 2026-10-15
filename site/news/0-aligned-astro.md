@@ -2,7 +2,6 @@
 % yam
 % 14 October 2026
   
----
 a  
 been spending more intimate time with the swiss ephemeris, realized i could remove the INSANE 1 aligned math for all the house systems. 
   
