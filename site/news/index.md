@@ -8,6 +8,10 @@ x-toc-enable: true
 
 Subscribe to RSS: [feed.xml](feed.xml)
 
+[0 aligned astro](/news/0-aligned-astro.md){.title}
+[14 October 2026]{.date}
+
+
 [bsd compatibility](/news/bsd.md){.title}
 [08 October 2026]{.date}
 
