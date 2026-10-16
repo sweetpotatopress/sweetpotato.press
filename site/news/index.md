@@ -8,6 +8,10 @@ x-toc-enable: true
 
 Subscribe to RSS: [feed.xml](feed.xml)
 
+[simple diary added, for easy journaling](/news/diary.md){.title}
+[15 October 2026]{.date}
+
+
 [0 aligned astro](/news/0-aligned-astro.md){.title}
 [14 October 2026]{.date}
 
