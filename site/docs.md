@@ -9,8 +9,8 @@ find astro
 ## how to install
 
 - install ncurses (most os have it by default)  
-- `make` to build locally  
-- `doas make install` to install to $PATH (sudo is also acceptable)  
+- `make` to build 
+- `doas make install` to install (sudo is also acceptable)  
 - type astro in the terminal to launch
 
 ## how to set default location
