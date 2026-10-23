@@ -13,7 +13,7 @@ chart animation, transits, synastry, zodiacal releasing, solar returns, saving/l
 
 come say hi on [libera.chat](https://libera.chat) channel #astro
 
-![miles davis birth chart drawn with astro](../img/astro.png)  
+![albys birth chart drawn with astro](../img/astro.png)  
 
 ## contribution guidelines
 
