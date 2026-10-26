@@ -3,80 +3,152 @@ title: basics
 x-toc-enable: true
 ...
 
-# sun
+# planets
+## sun
 su (o)  
 
 spirit, outward expression, intellect, rule  
 
-# moon
+## moon
 mo (()  
 
 fortune, body, integration, senses,  
 wandering, sustenance, dreams  
 
-# mercury
+## mercury
 me (-o<)  
 
 how the message is delivered. from one to  
 the next, keeping tally, writing, moving  
 
-# venus
+## venus
 ve (~:o)  
 
 the connection, realationship, fluidity,  
 desires. the social bonds, delight in ones  
 environment, beauty  
 
-# mars
+## mars
 ma (o->)  
 
 stress, passion, lusts, force, all things  
 requiring action without thought. war,  
 violence, and death  
 
-# jupiter
+## jupiter
 ju (\\+)  
 
 bounty, ethics, lofty desire,philosophical  
 notions, the law itself, beliefs and dogma.  
 abundance  
 
-# saturn
+## saturn
 sa (h)  
 
 discipline, mesh, boundaries, fear,  
 depression, melancholy, long in the face.  
 holding much weight. thick walls, slow  
 
-# uranus
+## uranus
 ur (\\*/)  
 
 sudden strikes, genius, will, breaking  
 boundaries, disintegration, pranks  
 
-# neptune
+## neptune
 ne (?)  
 
 spiritual undercurrent, unsaid alignments,  
 fog, artistic inspiration, altered states  
 
-# pluto
+## pluto
 pl (P)  
 
 demons, religious draw, power,  
 magnets, reincorporation, intensity  
 
-# south node
+## south node
 so (u)  
 
 where one is sitting. removal of waste  
 
-# north node
+## north node
 no (^)  
 
 where one is moving. indulging  
 
-- - -
+# zodiac
+
+## cancer
+can  
+
+nourishing, protecting, intuitive. fond of  
+pleasure, crabs  
+
+## leo
+leo  
+
+well tempered, notable, expressive, seen,  
+loyalty  
+
+## virgo
+vir  
+
+taking stock, counting, embodying, reaping,  
+endings, mystical  
+
+## libra
+lib  
+
+relational, fairness, adjustments, concord  
+
+## scorpio
+sco  
+
+understanding, hunger, rot, purification,  
+diving, passion  
+
+## sagittarius
+sag  
+
+experiencing, bringing home, jovial,   
+pursuing truth, just  
+
+## capricorn
+cap  
+
+builders, simple, cold, planners of  
+great works  
+
+## aquarius
+aqu  
+
+outside the walls, alone, enmeshed,  
+concealing, rational  
+
+## pisces
+pis  
+
+slippery, inconstant, evasive, dreamy,  
+compassion  
+
+## aries
+ari  
+
+initiation, youth, cutting, violence,  
+uncompromising, self  
+
+## taurus
+tau  
+
+garden, caretaking, enjoying, intentional,  
+lounging, arousing  
+
+## gemini
+gem  
+
+double minded, sociable, playful,   
+information getting  
 
 # angles
 
