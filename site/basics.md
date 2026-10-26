@@ -1,65 +1,70 @@
-# sun
-su (o)
+---
+title: basics
+x-toc-enable: true
+...
 
-spirit, outward expression, intellect, rule
+# sun
+su (o)  
+
+spirit, outward expression, intellect, rule  
 
 # moon
-mo (()
+mo (()  
 
-fortune, body, integration, senses,
-wandering, sustenence, dreams
+fortune, body, integration, senses,  
+wandering, sustenence, dreams  
 
 # mercury
-me (-o<)
+me (-o<)  
 
-how the message is delivered. from one to
-the next, keeping tally, writing, moving
+how the message is delivered. from one to  
+the next, keeping tally, writing, moving  
 
 # venus
-ve (~:o)
+ve (~:o)  
 
-the connection, realationship, fluidity,
-desires. the social bonds, delight in ones
-environment, beauty
+the connection, realationship, fluidity,  
+desires. the social bonds, delight in ones  
+environment, beauty  
 
 # mars
-ma (o->)
+ma (o->)  
 
-stress, passion, lusts, force, all things
-requiring action without thought. war,
-violence, and death
+stress, passion, lusts, force, all things  
+requiring action without thought. war,  
+violence, and death  
 
 # jupiter
-ju (\+)
+ju (\+)  
 
-bounty, ethics, lofty desire,philosophical
-notions, the law itself, beliefs amd dogma.
-abundance
+bounty, ethics, lofty desire,philosophical  
+notions, the law itself, beliefs amd dogma.  
+abundance  
 
 # saturn
-sa (h)
+sa (h)  
 
-discipline, mesh, boundries, fear,
-depression, melancholy, long in the face.
-holding much weight. thick walls, slow
+discipline, mesh, boundries, fear,  
+depression, melancholy, long in the face.  
+holding much weight. thick walls, slow  
 
 # uranus
-ur (\*/)
+ur (\*/)  
 
-sudden strikes, genius, will, breaking
-boundries, disintigration, pranks
+sudden strikes, genius, will, breaking  
+boundries, disintigration, pranks  
 
 # neptune
-ne (?)
+ne (?)  
 
-spiritual undercurrent, unsaid alignments,
-fog, artistic inspiration, altered states
+spiritual undercurrent, unsaid alignments,  
+fog, artistic inspiration, altered states  
 
 # pluto
-pl (P)
+pl (P)  
 
-demons, religious draw, power,
-magnets, reincorperation, intensity
+demons, religious draw, power,  
+magnets, reincorperation, intensity  
 
 - - -
 
@@ -67,193 +72,193 @@ magnets, reincorperation, intensity
 
 ## as
 
-the ascendent. eastern horizon, inception,
-incarnation, body, health
+the ascendent. eastern horizon, inception,  
+incarnation, body, health  
 
 ## mc
 
-midheaven. medium coeli. height, direction, 
-being seen
+midheaven. medium coeli. height, direction,   
+being seen  
 
 ## ds
 
-descendent. decrease, endings. western
-horizon, the other. relation
+descendent. decrease, endings. western  
+horizon, the other. relation  
 
 ## ic
 
-imum coeli. roots, foundation, private life,
-parents, death
+imum coeli. roots, foundation, private life,  
+parents, death  
 
 - - -
 
 # sect
 
 ## night
-the sun under the horizon.
-moon, venus, mars
+the sun under the horizon.  
+moon, venus, mars  
 
 ## day
-the sun over the horizon.
-sun, jupiter, saturn
+the sun over the horizon.  
+sun, jupiter, saturn  
 
 ## common
-mercury
+mercury  
 
 # lots
 
 ## fortune
 
-lot of the moon. 
-that which happens to us, the environment,
-luck
+lot of the moon.   
+that which happens to us, the environment,  
+luck  
 
 ## daimon
 
-lot of the sun
-the actions one takes, will, effect on the
-world
+lot of the sun  
+the actions one takes, will, effect on the  
+world  
 
 - - -
 # elements
 
 ## fire
-ari, leo, sag
-red
-process of action
+ari, leo, sag  
+red  
+process of action  
 
 ## earth
-cap, tau, vir
-green
-process of materializing
+cap, tau, vir  
+green  
+process of materializing  
 
 ## air
-lib, aqu, gem
-yellow
-process of messaging
+lib, aqu, gem  
+yellow  
+process of messaging  
 
 ## water
-can, sco, pis
-blue
-process of being
+can, sco, pis  
+blue  
+process of being  
 
 # dignities
 
 ## ruler
-rul
+rul  
 
-the planet which naturally coincides with
-the sign. other planets look to them for
+the planet which naturally coincides with  
+the sign. other planets look to them for  
 advice when in their natural signs  
 
 saturn: aquarius, capricorn  
-jupiter: sagitarrius, pisces
-mars: scorpio, aries
-sun: leo
-venus: taurus, libra
-mercury: virgo, gemini
-moon: cancer
+jupiter: sagitarrius, pisces  
+mars: scorpio, aries  
+sun: leo  
+venus: taurus, libra  
+mercury: virgo, gemini  
+moon: cancer  
 
 ## exaltation
-exa
+exa  
 
-planets highest honors
+planets highest honors  
 
-saturn: libra
-jupiter: cancer
-mars: capricorn
-sun: aries
-venus: pisces
-mercury: virgo
-moon: taurus
+saturn: libra  
+jupiter: cancer  
+mars: capricorn  
+sun: aries  
+venus: pisces  
+mercury: virgo  
+moon: taurus  
 
 ## triplicity
-tri
-community support, flowing expression
-through others
+tri  
+community support, flowing expression  
+through others  
 
-day, night, common
-fire: sun, jupiter, saturn
-earth: venus, moon, mars
-air: saturn, mercury, jupiter
-water: venus, mars, moon
+day, night, common  
+fire: sun, jupiter, saturn  
+earth: venus, moon, mars  
+air: saturn, mercury, jupiter  
+water: venus, mars, moon  
 
 ## bound
-bou
+bou  
 
-family bonds
+family bonds  
 
 ## decan
-dec
+dec  
 
-home away from home
-minor arcana
+home away from home  
+minor arcana  
 
 ## detriment
 
-opposite their ruling sign. 
-general obstacles in the way, 
-building in strength
+opposite their ruling sign.   
+general obstacles in the way,   
+building in strength  
 
-saturn: leo, cancer
-jupiter: gemini, virgo
-mars: taurus, libra
-sun: aquarius
-venus: scorpio, aries
-mercury: pisces, sagittarius
-moon: capricorn
+saturn: leo, cancer  
+jupiter: gemini, virgo  
+mars: taurus, libra  
+sun: aquarius  
+venus: scorpio, aries  
+mercury: pisces, sagittarius  
+moon: capricorn  
 
 ## fall
-fal
+fal  
 
-opposite their exaltation
-being stopped, heavy
+opposite their exaltation  
+being stopped, heavy  
 
-saturn: aries
-jupiter: capricorn
-mars: cancer
-sun: libra
-venus: virgo
-mercury: pisces
-moon: scorpio
+saturn: aries  
+jupiter: capricorn  
+mars: cancer  
+sun: libra  
+venus: virgo  
+mercury: pisces  
+moon: scorpio  
 
 # motions
 
 ## eclip
-days until/since an eclipse, lunar or solar
+days until/since an eclipse, lunar or solar  
 
 ## speed
-degrees moved per day
+degrees moved per day  
 
-days until/since a retrograde
+days until/since a retrograde  
 
 # aspects
 
 ## opposition
-red
-180 degrees
-saturnian
+red  
+180 degrees  
+saturnian  
 
-what is being highlighted
+what is being highlighted  
 
 ## trine
-blue
-120 degrees
-jupitarian
+blue  
+120 degrees  
+jupitarian  
 
-easy movement and flow
+easy movement and flow  
 
 ## square
-red
-90 degrees
-martial
+red  
+90 degrees  
+martial  
 
-frustration yet strength of force
+frustration yet strength of force  
 
 ## sextile
-blue
-60 degrees
-venusian
+blue  
+60 degrees  
+venusian  
 
-friendly easy going connections
+friendly easy going connections  
 
