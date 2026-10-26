@@ -152,6 +152,24 @@ can, sco, pis
 blue  
 process of being  
 
+# modality
+
+## cardinal
+air, cap, lib, can  
+
+onrush   
+
+## fixed
+leo, tau, aqu, sco  
+
+steadfast  
+
+## mutable
+sag, vor, gem, pis  
+
+changing  
+
+- - -
 # dignities
 
 ## ruler
