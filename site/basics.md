@@ -129,7 +129,6 @@ lot of the sun
 the actions one takes, will, effect on the  
 world  
 
-- - -
 # elements
 
 ## fire
@@ -169,7 +168,6 @@ sag, vor, gem, pis
 
 changing  
 
-- - -
 # dignities
 
 ## ruler
