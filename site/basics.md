@@ -12,7 +12,7 @@ spirit, outward expression, intellect, rule
 mo (()  
 
 fortune, body, integration, senses,  
-wandering, sustenence, dreams  
+wandering, sustenance, dreams  
 
 # mercury
 me (-o<)  
@@ -38,13 +38,13 @@ violence, and death
 ju (\+)  
 
 bounty, ethics, lofty desire,philosophical  
-notions, the law itself, beliefs amd dogma.  
+notions, the law itself, beliefs and dogma.  
 abundance  
 
 # saturn
 sa (h)  
 
-discipline, mesh, boundries, fear,  
+discipline, mesh, boundaries, fear,  
 depression, melancholy, long in the face.  
 holding much weight. thick walls, slow  
 
@@ -52,7 +52,7 @@ holding much weight. thick walls, slow
 ur (\*/)  
 
 sudden strikes, genius, will, breaking  
-boundries, disintigration, pranks  
+boundaries, disintegration, pranks  
 
 # neptune
 ne (?)  
@@ -64,7 +64,7 @@ fog, artistic inspiration, altered states
 pl (P)  
 
 demons, religious draw, power,  
-magnets, reincorperation, intensity  
+magnets, reincorporation, intensity  
 
 - - -
 
@@ -72,7 +72,7 @@ magnets, reincorperation, intensity
 
 ## as
 
-the ascendent. eastern horizon, inception,  
+the ascendant. eastern horizon, inception,  
 incarnation, body, health  
 
 ## mc
@@ -152,7 +152,7 @@ the sign. other planets look to them for
 advice when in their natural signs  
 
 saturn: aquarius, capricorn  
-jupiter: sagitarrius, pisces  
+jupiter: sagittarius, pisces  
 mars: scorpio, aries  
 sun: leo  
 venus: taurus, libra  
