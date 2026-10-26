@@ -35,7 +35,7 @@ requiring action without thought. war,
 violence, and death  
 
 # jupiter
-ju (\+)  
+ju (\\+)  
 
 bounty, ethics, lofty desire,philosophical  
 notions, the law itself, beliefs and dogma.  
@@ -49,7 +49,7 @@ depression, melancholy, long in the face.
 holding much weight. thick walls, slow  
 
 # uranus
-ur (\*/)  
+ur (\\*/)  
 
 sudden strikes, genius, will, breaking  
 boundaries, disintegration, pranks  
@@ -65,6 +65,16 @@ pl (P)
 
 demons, religious draw, power,  
 magnets, reincorporation, intensity  
+
+# south node
+so (u)  
+
+where one is sitting. removal of waste  
+
+# north node
+no (^)  
+
+where one is moving. indulging  
 
 - - -
 
