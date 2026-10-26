@@ -3,6 +3,8 @@ title: basics
 x-toc-enable: true
 ...
 
+[astro is available on codeberg](https://codeberg.org/yamlynn/astro)  
+
 # planets
 ## sun
 su (o)  
