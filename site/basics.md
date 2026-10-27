@@ -223,7 +223,7 @@ process of messaging
 ## water
 can, sco, pis  
 blue  
-process of being  
+process of realations  
 
 # modality
 
@@ -291,8 +291,24 @@ family bonds
 ## decan
 dec  
 
+equal 10 degree splits into three  
 home away from home  
 minor arcana  
+
+sign: 0-9, 10-19, 20-29  
+
+ari: mars, sun, venus  
+tau: mercury, moon, saturn  
+gem: jupiter, mars, sun  
+can: venus, mercury, moon  
+leo: saturn, jupiter, mars  
+vir: sun, venus, mercury  
+lib: moon, saturn, jupiter  
+sco: mars, sun, venus  
+sag: mercury, moon, saturn  
+cap: jupiter, mars, sun  
+aqu: venus, mercury, moon  
+pis: saturn, jupiter, mars  
 
 ## detriment
 

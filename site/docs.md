@@ -10,7 +10,8 @@ find astro
 
 - install ncurses (most os have it by default)  
 - `make` to build 
-- `doas make install` to install (sudo is also acceptable)  
+- `doas make install` to install
+- (sudo is also acceptable)  
 - type astro in the terminal to launch
 
 ## how to set default location
@@ -32,5 +33,13 @@ find astro
 - brackets on their own line  
 - must compile on both bsd and linux  
 - a sense of love  
+
+## 0 aligned swiss ephemeris
+
+if youre familiar with the swiss ephemeris
+you will know its house calculations are 
+all 1 aligned. i changed that, all swe_
+functions are 0 aligned in astro. that is
+house 1 = 0, 2 = 1, etc. 
 
 ---
