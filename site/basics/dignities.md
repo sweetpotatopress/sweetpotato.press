@@ -3,7 +3,7 @@ title: dignities
 x-toc-enable: true
 ...
 
-[planets](basics/planets.md) | [zodiac](basics/zodiac.md) | [expression](basics/expression.md) | [dignities](basics/dignities.md)
+[planets](planets.md) | [zodiac](zodiac.md) | [expression](expression.md) | [dignities](dignities.md)
    
 [back to basics](../basics.md)
 
@@ -104,6 +104,6 @@ venus: virgo
 mercury: pisces  
 moon: scorpio  
 
-[planets](basics/planets.md) | [zodiac](basics/zodiac.md) | [expression](basics/expression.md) | [dignities](basics/dignities.md)
+[planets](planets.md) | [zodiac](zodiac.md) | [expression](expression.md) | [dignities](dignities.md)
    
 [back to basics](../basics.md)

@@ -2,9 +2,9 @@
 title: planets
 x-toc-enable: true
 ...
-
   
-[planets](basics/planets.md) | [zodiac](basics/zodiac.md) | [expression](basics/expression.md) | [dignities](basics/dignities.md)
+  
+[planets](planets.md) | [zodiac](zodiac.md) | [expression](expression.md) | [dignities](dignities.md)
   
 [back to basics](../basics.md)
 
@@ -83,7 +83,7 @@ no (^)
 where one is moving. indulging  
  
    
-[planets](basics/planets.md) | [zodiac](basics/zodiac.md) | [expression](basics/expression.md) | [dignities](basics/dignities.md)
+[planets](planets.md) | [zodiac](zodiac.md) | [expression](expression.md) | [dignities](dignities.md)
   
 [back to basics](../basics.md)
   

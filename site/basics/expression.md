@@ -3,6 +3,8 @@ title: expression
 x-toc-enable: true
 ...
 
+[planets](planets.md) | [zodiac](zodiac.md) | [expression](expression.md) | [dignities](dignities.md)
+   
 [back to basics](../basics.md)
 
 # sect
@@ -132,5 +134,9 @@ blue
 venusian  
 
 friendly easy going connections  
+  
 
+[planets](planets.md) | [zodiac](zodiac.md) | [expression](expression.md) | [dignities](dignities.md)
+   
 [back to basics](../basics.md)
+  

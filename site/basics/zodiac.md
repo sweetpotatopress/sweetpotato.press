@@ -3,7 +3,7 @@ title: zodiac
 x-toc-enable: true
 ...
 
-[planets](basics/planets.md) | [zodiac](basics/zodiac.md) | [expression](basics/expression.md) | [dignities](basics/dignities.md)
+[planets](planets.md) | [zodiac](zodiac.md) | [expression](expression.md) | [dignities](dignities.md)
   
 [back to basics](../basics.md)
   
@@ -82,7 +82,7 @@ double minded, sociable, playful,
 information getting  
 
   
-[planets](basics/planets.md) | [zodiac](basics/zodiac.md) | [expression](basics/expression.md) | [dignities](basics/dignities.md)
+[planets](planets.md) | [zodiac](zodiac.md) | [expression](expression.md) | [dignities](dignities.md)
   
 [back to basics](../basics.md)
   
