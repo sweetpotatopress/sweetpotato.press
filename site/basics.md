@@ -174,8 +174,6 @@ horizon, the other. relation
 imum coeli. roots, foundation, private life,  
 parents, death  
 
-- - -
-
 # sect
 
 ## night
@@ -277,7 +275,7 @@ tri
 community support, flowing expression  
 through others  
 
-day, night, common  
+element: day, night, common  
 fire: sun, jupiter, saturn  
 earth: venus, moon, mars  
 air: saturn, mercury, jupiter  
@@ -287,6 +285,7 @@ water: venus, mars, moon
 bou  
 
 family bonds  
+small bastions  
 
 ## decan
 dec  
