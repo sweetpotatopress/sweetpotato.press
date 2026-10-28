@@ -7,4 +7,12 @@ x-toc-enable: true
 
 a brief overview to explain what astro covers, as well as to help get the mind moving by deliberating on simple things. 
 
+expression includes  
+- sect
+- elements
+- modality
+- angles
+- lots
+- aspects
+- 'motions'
 

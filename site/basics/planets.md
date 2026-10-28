@@ -3,6 +3,9 @@ title: planets
 x-toc-enable: true
 ...
 
+  
+[planets](basics/planets.md) | [zodiac](basics/zodiac.md) | [expression](basics/expression.md) | [dignities](basics/dignities.md)
+  
 [back to basics](../basics.md)
 
 # planets
@@ -78,6 +81,10 @@ where one is sitting. removal of waste
 no (^)  
 
 where one is moving. indulging  
-
+ 
+   
+[planets](basics/planets.md) | [zodiac](basics/zodiac.md) | [expression](basics/expression.md) | [dignities](basics/dignities.md)
+  
 [back to basics](../basics.md)
+  
 
