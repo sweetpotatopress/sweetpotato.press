@@ -1,6 +1,6 @@
 ---
 title: likes
-x-toc-enable: true
+x-toc-enable: false
 ---
 
 ## good books
