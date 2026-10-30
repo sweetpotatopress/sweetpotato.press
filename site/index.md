@@ -1,6 +1,6 @@
 ---
 title: sweetpotato.press
-x-toc-enable: true
+x-toc-enable: false
 ...
 
 home of free astrology software *astro*  
