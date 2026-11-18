@@ -24,6 +24,12 @@ find astro
 - press tab to fill config automatically.
 - press enter to save, setting the defaults for each open of astro
 
+## colors
+
+astro uses the ANSI 16 colors set for your terminal emulator  
+red, blue, green, yellow and black. if you want to change the  
+colors, change those in your terminal settings.   
+
 ## contribution guidelines
 
 - snake_case, MACRO in all caps
@@ -36,10 +42,10 @@ find astro
 
 ## 0 aligned swiss ephemeris
 
-if youre familiar with the swiss ephemeris
-you will know its house calculations are 
-all 1 aligned. i changed that, all swe_
-functions are 0 aligned in astro. that is
-house 1 = 0, 2 = 1, etc. 
+if youre familiar with the swiss ephemeris  
+you will know its house calculations are   
+all 1 aligned. i changed that, all swe_  
+functions are 0 aligned in astro. that is  
+house 1 = 0, 2 = 1, etc.   
 
 ---
