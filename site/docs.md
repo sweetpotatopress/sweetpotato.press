@@ -27,7 +27,7 @@ find astro
 ## colors
 
 astro uses the ANSI 16 colors set for your terminal emulator  
-red, blue, green, yellow and black. if you want to change the  
+red, blue, green, yellow, white and black. if you want to change the  
 colors, change those in your terminal settings.   
 
 ## contribution guidelines
