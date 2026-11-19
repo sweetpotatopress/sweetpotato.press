@@ -8,6 +8,10 @@ x-toc-enable: true
 
 Subscribe to RSS: [feed.xml](feed.xml)
 
+[house systems!](/news/houses.md){.title}
+[19 November 2026]{.date}
+
+
 [simple diary added, for easy journaling](/news/diary.md){.title}
 [15 October 2026]{.date}
 
